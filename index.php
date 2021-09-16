@@ -1,3 +1,4 @@
+<!-- testing -->
 <?php
 	$weather = $city = $error = "";
 	
